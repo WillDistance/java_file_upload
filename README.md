@@ -14,3 +14,4 @@ java文件上传，从前端到后端，完整demo。兼容iOS
 
 手机端测试唤醒手机相册选择或手机摄像头拍照demo：
 
+https://github.com/WillDistance/java_file_upload/blob/master/file-upload-download/src/main/webapp/input_demo.html
